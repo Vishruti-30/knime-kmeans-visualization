@@ -36,5 +36,8 @@ A complete KNIME workflow to perform K-Means clustering on customer data, includ
 ## 📂 Project Folder Structure
 
 ```
-Mall_Customers.csv
+├── Mall_Customers.csv # Dataset used for clustering
+├── Scatter Plot.png # Visualization of K-Means cluster results
+├── workflow_knime.svg # Visual representation of the KNIME workflow
+├── README.md # Project overview and documentation
 ```
